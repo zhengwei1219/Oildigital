@@ -24,7 +24,7 @@
 
                     <key>url</key>
 
-                    <string>http://106.38.74.254/app/cnpc/cnpcapp.ipa</string>
+                    <string>http://106.38.74.254/app/invitation/invitationapp.ipa</string>
 
                 </dict>
 
@@ -48,7 +48,7 @@
 
                 <key>title</key>
 
-                <string>出国管理</string>
+                <string>来华邀请函系统</string>
 
             </dict>
 
